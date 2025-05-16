@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 📫 Get In Touch
 
-- [LinkedIn](https://www.linkedin.com/in/thisenmandiv)  
-- [Twitter](https://twitter.com/thisenmandiv)  
-- Email: thisenmandiv@example.com
+- Email: mandivt@gmail.com
 
 ---
 
